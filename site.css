@@ -1,0 +1,14 @@
+body {
+    background: #f5ebe1;
+    padding: 50px;
+    color: #d97b82;
+    font-family: cursive;
+h1,
+h2,
+h3,
+head,
+body 
+    color: #d97b82;
+    font-family: cursive;
+img {
+    width: 200px;}
